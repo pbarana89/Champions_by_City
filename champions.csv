@@ -1,0 +1,348 @@
+YEAR,WINNER,LOSER,LEAGUE
+2021,Atlanta ,Houston ,MLB
+2020,Los Angeles ,Tampa Bay ,MLB
+2019,Washington ,Houston ,MLB
+2018,Boston ,Los Angeles ,MLB
+2017,Houston ,Los Angeles ,MLB
+2016,Chicago ,Cleveland ,MLB
+2015,Kansas City ,New York ,MLB
+2014,San Francisco ,Kansas City ,MLB
+2013,Boston ,St. Louis ,MLB
+2012,San Francisco ,Detroit ,MLB
+2011,St. Louis ,Texas ,MLB
+2010,San Francisco ,Texas ,MLB
+2009,New York ,Philadelphia ,MLB
+2008,Philadelphia ,Tampa Bay ,MLB
+2007,Boston ,Colorado ,MLB
+2006,St. Louis ,Detroit ,MLB
+2005,Chicago ,Houston ,MLB
+2004,Boston ,St. Louis ,MLB
+2003,Florida ,New York ,MLB
+2002,Anaheim ,San Francisco ,MLB
+2001,Arizona ,New York ,MLB
+2000,New York ,New York ,MLB
+1999,New York ,Atlanta ,MLB
+1998,New York ,San Diego ,MLB
+1997,Florida ,Cleveland ,MLB
+1996,New York ,Atlanta ,MLB
+1995,Atlanta ,Cleveland ,MLB
+No World Series held in 1994 due to players' strike,,,MLB
+1993,Toronto Blue ,Philadelphia ,MLB
+1992,Toronto Blue ,Atlanta ,MLB
+1991,Minnesota ,Atlanta ,MLB
+1990,Cincinnati ,Oakland ,MLB
+1989,Oakland ,San Francisco ,MLB
+1988,Los Angeles ,Oakland ,MLB
+1987,Minnesota ,St. Louis ,MLB
+1986,New York ,Boston ,MLB
+1985,Kansas City ,St. Louis ,MLB
+1984,Detroit ,San Diego ,MLB
+1983,Baltimore ,Philadelphia ,MLB
+1982,St. Louis ,Milwaukee ,MLB
+1981,Los Angeles ,New York ,MLB
+1980,Philadelphia ,Kansas City ,MLB
+1979,Pittsburgh ,Baltimore ,MLB
+1978,New York ,Los Angeles ,MLB
+1977,New York ,Los Angeles ,MLB
+1976,Cincinnati ,New York ,MLB
+1975,Cincinnati ,Boston ,MLB
+1974,Oakland ,Los Angeles ,MLB
+1973,Oakland ,New York ,MLB
+1972,Oakland ,Cincinnati ,MLB
+1971,Pittsburgh ,Baltimore ,MLB
+1970,Baltimore ,Cincinnati ,MLB
+1969,New York ,Baltimore ,MLB
+1968,Detroit ,St. Louis ,MLB
+1967,St. Louis ,Boston ,MLB
+1966,Baltimore ,Los Angeles ,MLB
+1965,Los Angeles ,Minnesota ,MLB
+1964,St. Louis ,New York ,MLB
+1963,Los Angeles ,New York ,MLB
+1962,New York ,San Francisco ,MLB
+1961,New York ,Cincinnati ,MLB
+1960,Pittsburgh ,New York ,MLB
+1959,Los Angeles ,Chicago ,MLB
+1958,New York ,Milwaukee ,MLB
+1957,Milwaukee ,New York ,MLB
+1956,New York ,Brooklyn ,MLB
+1955,Brooklyn ,New York ,MLB
+1954,New York ,Cleveland ,MLB
+1953,New York ,Brooklyn ,MLB
+1952,New York ,Brooklyn ,MLB
+1951,New York ,New York ,MLB
+1950,New York ,Philadelphia ,MLB
+1949,New York ,Brooklyn ,MLB
+1948,Cleveland ,Boston ,MLB
+1947,New York ,Brooklyn ,MLB
+1946,St. Louis ,Boston ,MLB
+1945,Detroit ,Chicago ,MLB
+1944,St. Louis ,St. Louis ,MLB
+1943,New York ,St. Louis ,MLB
+1942,St. Louis ,New York ,MLB
+1941,New York ,Brooklyn ,MLB
+1940,Cincinnati ,Detroit ,MLB
+1939,New York ,Cincinnati ,MLB
+1938,New York ,Chicago ,MLB
+1937,New York ,New York ,MLB
+1936,New York ,New York ,MLB
+1935,Detroit ,Chicago ,MLB
+1934,St. Louis ,Detroit ,MLB
+1933,New York ,Washington ,MLB
+1932,New York ,Chicago ,MLB
+1931,St. Louis ,Philadelphia ,MLB
+1930,Philadelphia ,St. Louis ,MLB
+1929,Philadelphia ,Chicago ,MLB
+1928,New York ,St. Louis ,MLB
+1927,New York ,Pittsburgh ,MLB
+1926,St. Louis ,New York ,MLB
+1925,Pittsburgh ,Washington ,MLB
+1924,Washington ,New York ,MLB
+1923,New York ,New York ,MLB
+1922,New York ,New York ,MLB
+1921,New York ,New York ,MLB
+1920,Cleveland ,Brooklyn ,MLB
+1919,Cincinnati ,Chicago ,MLB
+1918,Boston ,Chicago ,MLB
+1917,Chicago ,New York ,MLB
+1916,Boston ,Brooklyn ,MLB
+1915,Boston ,Philadelphia ,MLB
+1914,Boston ,Philadelphia ,MLB
+1913,Philadelphia ,New York ,MLB
+1912,Boston ,New York ,MLB
+1911,Philadelphia ,New York ,MLB
+1910,Philadelphia ,Chicago ,MLB
+1909,Pittsburgh ,Detroit ,MLB
+1908,Chicago ,Detroit ,MLB
+1907,Chicago ,Detroit ,MLB
+1906,Chicago ,Chicago ,MLB
+1905,New York ,Philadelphia ,MLB
+No World Series held in 1904 due to boycott by the New York Giants,,,MLB
+1903,Boston ,Pittsburgh ,MLB
+1947,Philadelphia ,Chicago ,NBA
+1948,Baltimore ,Philadelphia ,NBA
+1949,Minneapolis ,Washington ,NBA
+1950,Minneapolis ,Syracuse ,NBA
+1951,Rochester ,New York ,NBA
+1952,Minneapolis ,New York ,NBA
+1953,Minneapolis ,New York ,NBA
+1954,Minneapolis ,Syracuse ,NBA
+1955,Syracuse ,Fort Wayne ,NBA
+1956,Philadelphia ,Fort Wayne ,NBA
+1957,Boston ,St. Louis ,NBA
+1958,St. Louis ,Boston ,NBA
+1959,Boston ,Minneapolis ,NBA
+1960,Boston ,St. Louis ,NBA
+1961,Boston ,St. Louis ,NBA
+1962,Boston ,Los Angeles ,NBA
+1963,Boston ,Los Angeles ,NBA
+1964,Boston ,San Francisco ,NBA
+1965,Boston ,Los Angeles ,NBA
+1966,Boston ,Los Angeles ,NBA
+1967,Philadelphia ,San Francisco ,NBA
+1968,Boston ,Los Angeles ,NBA
+1969,Boston ,Los Angeles ,NBA
+1970,New York ,Los Angeles ,NBA
+1971,Milwaukee ,Baltimore ,NBA
+1972,Los Angeles ,New York ,NBA
+1973,New York ,Los Angeles ,NBA
+1974,Boston ,Milwaukee ,NBA
+1975,San Francisco,Washington ,NBA
+1976,Boston ,Phoenix ,NBA
+1977,Portland ,Philadelphia ,NBA
+1978,Washington ,Seattle ,NBA
+1979,Seattle ,Washington ,NBA
+1980,Los Angeles ,Philadelphia ,NBA
+1981,Boston ,Houston ,NBA
+1982,Los Angeles ,Philadelphia ,NBA
+1983,Philadelphia ,Los Angeles ,NBA
+1984,Boston ,Los Angeles ,NBA
+1985,Los Angeles ,Boston ,NBA
+1986,Boston ,Houston ,NBA
+1987,Los Angeles ,Boston ,NBA
+1988,Los Angeles ,Detroit ,NBA
+1989,Detroit ,Los Angeles ,NBA
+1990,Detroit ,Portland ,NBA
+1991,Chicago ,Los Angeles ,NBA
+1992,Chicago ,Portland ,NBA
+1993,Chicago ,Phoenix ,NBA
+1994,Houston ,New York ,NBA
+1995,Houston ,Orlando ,NBA
+1996,Chicago ,Seattle ,NBA
+1997,Chicago ,Utah ,NBA
+1998,Chicago ,Utah ,NBA
+1999,San Antonio ,New York ,NBA
+2000,Los Angeles ,Indianapolis,NBA
+2001,Los Angeles ,Philadelphia ,NBA
+2002,Los Angeles ,New Jersey ,NBA
+2003,San Antonio ,New Jersey ,NBA
+2004,Detroit ,Los Angeles ,NBA
+2005,San Antonio ,Detroit ,NBA
+2006,Miami ,Dallas ,NBA
+2007,San Antonio ,Cleveland ,NBA
+2008,Boston ,Los Angeles ,NBA
+2009,Los Angeles ,Orlando ,NBA
+2010,Los Angeles ,Boston ,NBA
+2011,Dallas ,Miami ,NBA
+2012,Miami ,Oklahoma City ,NBA
+2013,Miami ,San Antonio ,NBA
+2014,San Antonio ,Miami ,NBA
+2015,San Francisco,Cleveland ,NBA
+2016,Cleveland ,San Francisco,NBA
+2017,San Francisco,Cleveland ,NBA
+2018,San Francisco,Cleveland ,NBA
+2019,Toronto ,San Francisco,NBA
+2020,Los Angeles ,Miami ,NBA
+2021,Milwaukee ,Phoenix ,NBA
+2022,San Francisco,Boston ,NBA
+1927,Ottawa ,Boston ,NHL
+1928,New York ,Montreal ,NHL
+1929,Boston ,New York ,NHL
+1930,Montreal ,Boston ,NHL
+1931,Montreal ,Chicago ,NHL
+1932,Toronto ,New York ,NHL
+1933,New York ,Toronto ,NHL
+1934,Chicago ,Detroit ,NHL
+1935,Montreal ,Toronto ,NHL
+1936,Detroit ,Toronto ,NHL
+1937,Detroit ,New York ,NHL
+1938,Chicago ,Toronto ,NHL
+1939,Boston ,Toronto ,NHL
+1940,New York ,Toronto ,NHL
+1941,Boston ,Detroit ,NHL
+1942,Toronto ,Detroit ,NHL
+1943,Detroit ,Boston ,NHL
+1944,Montreal ,Chicago ,NHL
+1945,Toronto ,Detroit ,NHL
+1946,Montreal ,Boston ,NHL
+1947,Toronto ,Montreal ,NHL
+1948,Toronto ,Detroit ,NHL
+1949,Toronto ,Detroit ,NHL
+1950,Detroit ,New York ,NHL
+1951,Toronto ,Montreal ,NHL
+1952,Detroit ,Montreal ,NHL
+1953,Montreal ,Boston ,NHL
+1954,Detroit ,Montreal ,NHL
+1955,Detroit ,Montreal ,NHL
+1956,Montreal ,Detroit ,NHL
+1957,Montreal ,Boston ,NHL
+1958,Montreal ,Boston ,NHL
+1959,Montreal ,Toronto ,NHL
+1960,Montreal ,Toronto ,NHL
+1961,Chicago ,Detroit ,NHL
+1962,Toronto ,Chicago ,NHL
+1963,Toronto ,Detroit ,NHL
+1964,Toronto ,Detroit ,NHL
+1965,Montreal ,Chicago ,NHL
+1966,Montreal ,Detroit ,NHL
+1967,Toronto ,Montreal ,NHL
+1968,Montreal ,St. Louis ,NHL
+1969,Montreal ,St. Louis ,NHL
+1970,Boston ,St. Louis ,NHL
+1971,Montreal ,Chicago ,NHL
+1972,Boston ,New York ,NHL
+1973,Montreal ,Chicago ,NHL
+1974,Philadelphia ,Boston ,NHL
+1975,Philadelphia ,Buffalo ,NHL
+1976,Montreal ,Philadelphia ,NHL
+1977,Montreal ,Boston ,NHL
+1978,Montreal ,Boston ,NHL
+1979,Montreal ,New York ,NHL
+1980,New York ,Philadelphia ,NHL
+1981,New York ,Minnesota ,NHL
+1982,New York ,Vancouver ,NHL
+1983,New York ,Edmonton ,NHL
+1984,Edmonton ,New York ,NHL
+1985,Edmonton ,Philadelphia ,NHL
+1986,Montreal ,Calgary ,NHL
+1987,Edmonton ,Philadelphia ,NHL
+1988,Edmonton ,Boston ,NHL
+1989,Calgary ,Montreal ,NHL
+1990,Edmonton ,Boston ,NHL
+1991,Pittsburgh ,Minnesota ,NHL
+1992,Pittsburgh ,Chicago ,NHL
+1993,Montreal ,Los Angeles ,NHL
+1994,New York ,Vancouver ,NHL
+1995,New Jersey ,Detroit ,NHL
+1996,Colorado ,Florida ,NHL
+1997,Detroit ,Philadelphia ,NHL
+1998,Detroit ,Washington ,NHL
+1999,Dallas ,Buffalo ,NHL
+2000,New Jersey ,Dallas ,NHL
+2001,Colorado ,New Jersey ,NHL
+2002,Detroit ,Carolina ,NHL
+2003,New Jersey ,Anaheim ,NHL
+2004,Tampa Bay ,Calgary ,NHL
+2005,Season cancelled due to the 2004–05 NHL lockout,Season cancelled due to the 2004–05 NHL lockout,NHL
+2006,Carolina ,Edmonton ,NHL
+2007,Anaheim ,Ottawa ,NHL
+2008,Detroit ,Pittsburgh ,NHL
+2009,Pittsburgh ,Detroit ,NHL
+2010,Chicago ,Philadelphia ,NHL
+2011,Boston ,Vancouver ,NHL
+2012,Los Angeles ,New Jersey ,NHL
+2013,Chicago ,Boston ,NHL
+2014,Los Angeles ,New York ,NHL
+2015,Chicago ,Tampa Bay ,NHL
+2016,Pittsburgh ,San Jose ,NHL
+2017,Pittsburgh ,Nashville ,NHL
+2018,Washington ,Vegas ,NHL
+2019,St. Louis ,Boston ,NHL
+2020,Tampa Bay ,Dallas ,NHL
+2021,Tampa Bay ,Montreal ,NHL
+2022,Colorado ,Tampa Bay ,NHL
+1967,Green Bay , Kansas City ,NFL
+1968,Green Bay , Oakland ,NFL
+1969,New York  , Baltimore ,NFL
+1970,Kansas City , Minnesota ,NFL
+1971,Baltimore , Dallas ,NFL
+1972,Dallas , Miami ,NFL
+1973,Miami , Washington ,NFL
+1974,Miami , Minnesota ,NFL
+1975,Pittsburgh , Minnesota ,NFL
+1976,Pittsburgh , Dallas ,NFL
+1977,Oakland , Minnesota ,NFL
+1978,Dallas , Denver ,NFL
+1979,Pittsburgh , Dallas ,NFL
+1980,Pittsburgh , Los Angeles  ,NFL
+1981,Oakland , Philadelphia ,NFL
+1982,San Francisco , Cincinnati ,NFL
+1983,Washington , Miami ,NFL
+1984,Los Angeles  , Washington ,NFL
+1985,San Francisco , Miami ,NFL
+1986,Chicago ,Boston,NFL
+1987,New York  , Denver ,NFL
+1988,Washington , Denver ,NFL
+1989,San Francisco , Cincinnati ,NFL
+1990,San Francisco , Denver ,NFL
+1991,New York  , Buffalo ,NFL
+1992,Washington , Buffalo ,NFL
+1993,Dallas , Buffalo ,NFL
+1994,Dallas , Buffalo ,NFL
+1995,San Francisco , San Diego ,NFL
+1996,Dallas , Pittsburgh ,NFL
+1997,Green Bay ,Boston,NFL
+1998,Denver , Green Bay ,NFL
+1999,Denver , Atlanta ,NFL
+2000,St. Louis , Tennessee ,NFL
+2001,Baltimore , New York  ,NFL
+2002,Boston, St. Louis ,NFL
+2003,Tampa Bay , Oakland ,NFL
+2004,Boston,Charlotte,NFL
+2005,Boston, Philadelphia ,NFL
+2006,Pittsburgh , Seattle ,NFL
+2007,Indianapolis , Chicago ,NFL
+2008,New York  ,Boston,NFL
+2009,Pittsburgh , Arizona ,NFL
+2010,New Orleans , Indianapolis ,NFL
+2011,Green Bay , Pittsburgh ,NFL
+2012,New York  ,Boston,NFL
+2013,Baltimore , San Francisco ,NFL
+2014,Seattle , Denver ,NFL
+2015,Boston, Seattle ,NFL
+2016,Denver ,Charlotte,NFL
+2017,Boston, Atlanta ,NFL
+2018,Philadelphia ,Boston,NFL
+2019,Boston, Los Angeles  ,NFL
+2020,Kansas City , San Francisco ,NFL
+2021,Tampa Bay , Kansas City ,NFL
+2022,Los Angeles  , Cincinnati ,NFL
