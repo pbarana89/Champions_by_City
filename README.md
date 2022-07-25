@@ -15,12 +15,12 @@
 
 ### Cleaning and Changing of the Data.
 
-- The data was mostly cleaned from the tables they were imported from, this involved 
+- The data was cleaned from the tables they were imported from which involved 
   - separating scores into teams of winners and losers.
   - stripping dates into years only.
   - getting rid of team nicknames.
 
-- Many teams using the state or a nickname for a metro area instead of using the direct city were changed. The following changes were made.
+- Many teams who use the state or a nickname instead of using the direct city were changed. The following changes were made.
  
 - NFL
   - New England to Boston
